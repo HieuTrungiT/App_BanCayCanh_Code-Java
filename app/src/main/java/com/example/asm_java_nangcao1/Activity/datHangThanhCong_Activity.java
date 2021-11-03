@@ -29,5 +29,6 @@ public class datHangThanhCong_Activity extends AppCompatActivity {
 
     private void anhXa() {
         DatHangThanhCong_tv_btn_check = (TextView) findViewById(R.id.datHangThanhCong_tv_btn_check);
+
     }
 }
