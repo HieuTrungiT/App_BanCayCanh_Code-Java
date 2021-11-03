@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "830191801604",
+    "firebase_url": "https://asmandroid-duan1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "asmandroid-duan1",
+    "storage_bucket": "asmandroid-duan1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830191801604:android:091f6fdca83b20920bac51",
+        "android_client_info": {
+          "package_name": "com.example.asm_java_nangcao1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830191801604-6cljlhvfsgn1rjs4kcqfd1e8vgbt3uej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4nr5OvC1sxvb4CIcq0VPC19vhEU0KPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830191801604-6cljlhvfsgn1rjs4kcqfd1e8vgbt3uej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830191801604:android:ecff86965cf1cc190bac51",
+        "android_client_info": {
+          "package_name": "com.example.asm_java_nangcao1.Activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830191801604-6cljlhvfsgn1rjs4kcqfd1e8vgbt3uej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4nr5OvC1sxvb4CIcq0VPC19vhEU0KPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830191801604-6cljlhvfsgn1rjs4kcqfd1e8vgbt3uej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
